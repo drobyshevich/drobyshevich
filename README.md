@@ -6,10 +6,9 @@
 </p>
 
 - 👋 Hi, I’m @drobyshevich
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mobile DEV
+- 🌱 I’m currently learning Swift,Kotlin
+- 💞️ I’m dev @API-Movies
 
 <!---
 drobyshevich/drobyshevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
